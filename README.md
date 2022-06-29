@@ -1,6 +1,6 @@
 # TeKET-Automatic Keyphrase Extraction Technique.
-TeKET source code//
-This code is taken from the work:
+
+This sopurce code is taken from the work:
 
 Rabby G, Azad S, Mahmud M, Zamli KZ, Rahman MM. 2020. Teket: a tree-based unsupervised keyphrase extraction technique. Cognitive Computation 12(4):811–833 DOI 10.1007/s12559-019-09706-3.
 
