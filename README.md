@@ -1,4 +1,4 @@
-# TeKET automatic unsupervised keyphrase extraction technique.
+# TeKET-Automatic Keyphrase Extraction Technique.
 TeKET source code//
 This code is taken from the work:
 
